@@ -1,0 +1,6 @@
+2_Cutter_1	04	1
+2_Cutter_2	04	1
+2_Cutter_3	04	1
+Spacer_1	12	4
+Spacer_2	13	4
+Hex_Spacer	16	10
