@@ -1,0 +1,2 @@
+16 ipm cutting,leadin,leadout
+0.010 in tab width, 0.5 tab spacing
